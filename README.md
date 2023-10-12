@@ -40,7 +40,7 @@
 
 3. Clone Repository:
 
-- ` git clone `
+- ` git clone https://github.com/Cyberboysatyam/Brute-X.git`
 
 4. Move into BruteX Directory:
 
@@ -57,5 +57,7 @@
 7. Now Execute main file:
 
 - ` python3 brutex.py `
+
+Now enjoy
 
 
